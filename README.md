@@ -3,8 +3,6 @@
 🌱 Currently Learning: Advanced Java development, React.js, and diving deeper into Spring Boot for back-end mastery.
 💞️ Excited to Collaborate On: Open-source projects, innovative web applications, and full-stack solutions that make a difference.
 📫 Reach Me At: [penumalaharshavardhan@gmail.com]
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 harsha33215/harsha33215 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
