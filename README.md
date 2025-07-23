@@ -8,6 +8,23 @@ Exploring cutting-edge technologies, building innovative solutions, and solving 
 
 🎓 **Completed:**  
 A Full Stack Development course focused on Advanced Java, React.js, and Spring Boot.
+## 🛠️ Tech Stack
+
+**Languages:**  
+Java • JavaScript • SQL • HTML • CSS
+
+**Frontend:**  
+React.js • Bootstrap • DOM Manipulation • Flexbox
+
+**Backend:**  
+Spring Boot • REST APIs • JDBC • Hibernate • JPA
+
+**Database:**  
+MySQL • H2 Database
+
+**Tools & IDEs:**  
+VS Code • IntelliJ IDEA • Postman • Git • GitHub • Netlify
+
 
 💡 **Excited to Collaborate On:**  
 Open-source projects, innovative web applications, and full-stack solutions that create real impact.
