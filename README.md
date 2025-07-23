@@ -1,4 +1,7 @@
 # 👋 Hello, I'm Harshavardhan Penumala
+I'm a passionate and motivated **Full Stack Developer** with a strong foundation in both front-end and back-end technologies. I enjoy building modern web applications, solving real-world problems through code, and constantly learning to stay updated with the latest in tech.
+
+---
 
 👀 **Passionate About:
 Exploring cutting-edge technologies, building innovative solutions, and solving real-world challenges with code.
