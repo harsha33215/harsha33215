@@ -15,7 +15,7 @@ Full Stack Developer with hands-on experience building scalable web applications
 
 ### Languages
 
-Java • JavaScript • SQL • HTML • CSS • Python (Basics)
+Java • JavaScript • SQL • HTML • CSS • Python
 
 ### Frontend
 
