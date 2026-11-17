@@ -94,8 +94,8 @@ Worked with BigCommerce, Shopify, AWS, and Azure services to automate product an
 
 ## Connect With Me
 
-Portfolio: https://idyllic-nougat-f61c02.netlify.app
+
 
 LinkedIn: https://www.linkedin.com/in/harshavardhan332/
 
-Email: [penumalaharshavardhan@gmail.com](mailto:penumalaharshavardhan@gmail.com)
+Email: [harsha33215@gmail.com](mailto:harsha33215@gmail.com)
